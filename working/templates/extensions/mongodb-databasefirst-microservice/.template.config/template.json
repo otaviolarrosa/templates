@@ -1,0 +1,9 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Otávio Larrosa",
+    "classifications": [ "Common", "Microservices" ],
+    "identity": "mongodb-ms",
+    "name": "MongoDb Microservice Base",
+    "sourceName": "TemplateMicroservice",
+    "shortName": "mongodb-ms-base"
+  }
