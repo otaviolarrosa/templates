@@ -3,11 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.OpenApi.Models;
 using TemplateMicroservice.Infrastructure.IoC;
 using TemplateMicroservice.Infrastructure.Settings;
 using TemplateMicroservice.Infrastructure.Swagger;
-using TemplateMicroservice.Infrastructure.Utils.Settings;
 
 namespace TemplateMicroservice.Api
 {
