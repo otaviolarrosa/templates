@@ -1,8 +1,11 @@
 {
-    "$schema": "http://json.schemastore.org/template",
-    "author": "Otávio Larrosa",
-    "classifications": [ "Common", "Microservices" ],
-    "identity": "nhibernate-ms",
-    "name": "NHibernate Microservice Base",
-    "shortName": "nh-ms-base"
-  }
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Otávio Larrosa",
+  "classifications": [
+    "Common",
+    "Microservices"
+  ],
+  "identity": "TemplateMicroservice",
+  "name": "NHibernate Microservice Base",
+  "shortName": "nh-ms-base"
+}
